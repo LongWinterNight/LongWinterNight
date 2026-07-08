@@ -6,7 +6,7 @@ AI integration and product engineering: I turn "we need AI" into working tools a
 
 Открыт к предложениям: AI Enablement / AI Transformation / Product Engineer. Формат — удалённо, гибрид или офис в СПб, готов к переезду по РФ.
 
-Связь: Telegram [@alex_chnk](https://t.me/alex_chnk)
+Связь: Telegram [@alex_chnk](https://t.me/alex_chnk) · [LinkedIn](https://www.linkedin.com/in/chernenko-alexey)
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
