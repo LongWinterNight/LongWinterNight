@@ -14,7 +14,7 @@ AI-интегратор и Product Engineer. Собираю работающие
 | CPA Analytics Dashboard | Дашборд рекламных кампаний: юнит-экономика, воронки, библиотека промптов. Vanilla JS без зависимостей | [демо](https://mehicofarma.netlify.app) · [код](https://github.com/LongWinterNight/mehico-farma) |
 | Портфолио-сайт архитектора | Python-ETL извлёк 120+ работ из PDF, по ним собран сайт на React/Vite. Оплаченный клиентский проект | [демо](https://web-pink-chi-51.vercel.app) |
 | Тропа | Продуктовая документация Telegram Mini App для походов + регламент мульти-агентной парной разработки | [код](https://github.com/LongWinterNight/Tropa_app) |
-| Чек-листы для бизнеса | Прототип сервиса готовых чек-листов для малого бизнеса | [демо](https://msb-checklists.netlify.app) |
+| МСБ Чек-листы | Прототип платформы продажи бизнес-чек-листов: каталог, корзина, чекаут с ЮKassa. Next.js, TypeScript, Supabase | [демо](https://msb-checklists.netlify.app) · [код](https://github.com/LongWinterNight/msb-checklists) |
 
 Разборы клиентских кейсов без раскрытия заказчиков — в [ai-builds](https://github.com/LongWinterNight/ai-builds).
 
